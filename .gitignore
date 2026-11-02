@@ -1,0 +1,21 @@
+# Data files
+data/*.csv
+data/*.tsv
+data/*.txt
+data/*.gz
+data/*.zip
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
